@@ -6,6 +6,5 @@ You could even use this as a signing on method for access to computers and other
 
 You can change the pass word to your choice and it has its own menu so that you can access these functions functions
 
-It is slightly buggy and I need to do some more work on this at some point but its 95% all in working order thus far 
 
 Enjoy Mark Harrington
